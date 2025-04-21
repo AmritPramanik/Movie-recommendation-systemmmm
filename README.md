@@ -6,15 +6,11 @@ A movie recommendation system using Python and TMDB leverages data from The Movi
 
 ## How It Works
 
-Merges movies and credits data on the movie title
-
-Extracts important features like overview, cast, crew, and genres
-
-Applies NLP to combine features into a single text
-
-Vectorizes text data using CountVectorizer
-
-Computes cosine similarity between movies to suggest the most similar ones
+- Merges movies and credits data on the movie title
+- Extracts important features like overview, cast, crew, and genres
+- Applies NLP to combine features into a single text
+- Vectorizes text data using CountVectorizer
+- Computes cosine similarity between movies to suggest the most similar ones
 
 ## 🗃️ Dataset
 
