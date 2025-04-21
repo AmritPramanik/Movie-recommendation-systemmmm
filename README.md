@@ -2,7 +2,7 @@
 
 A movie recommendation system using Python and TMDB leverages data from The Movie Database API to suggest films based on user preferences, employing machine learning algorithms for personalized recommendations.
 ## Important Components:
-
+<p align="left"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/> <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/> <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/> <img src="https://img.shields.io/badge/TMDB-01B4E4?style=for-the-badge&logo=themoviedatabase&logoColor=white" alt="TMDB"/> <img src="https://img.shields.io/badge/Pickle-333333?style=for-the-badge&logo=python&logoColor=white" alt="Pickle"/> </p>
 
 ## 📦 Tech Stack
 
