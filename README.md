@@ -12,14 +12,12 @@ A movie recommendation system using Python and TMDB leverages data from The Movi
 - Vectorizes text data using CountVectorizer
 - Computes cosine similarity between movies to suggest the most similar ones
 
-## 🗃️ Dataset
+## Dataset
 
 - **Source:** [TMDB 5000 Movie Dataset](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata)
-- Contains movie metadata such as genres, cast, crew, keywords, etc.
 
-## 🛠️ How to Run Locally
+## Demonstration :
+The whole demonstration is laid down in the given file:-
 
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/pro-jesh/movie-recommendation-system.git
-   cd movie-recommendation-system
+
+## App Link
