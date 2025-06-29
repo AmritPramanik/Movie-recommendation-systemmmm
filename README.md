@@ -20,4 +20,3 @@ A movie recommendation system using Python and TMDB leverages data from The Movi
 The whole demonstration is laid down in the given file:- <br>
 https://drive.google.com/drive/folders/1IvkcWLhy49-dBdMny877PuyiXBw6vADK?usp=sharing
 
-## App Link
